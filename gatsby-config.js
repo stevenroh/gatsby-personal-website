@@ -1,7 +1,16 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    description: "Personal page",
+    locale: "en",
     title: "Steven Roh",
+    formspreeEndpoint: "https://formspree.io/f/xoqyodav",
   },
-  plugins: [],
+  plugins: [
+    {
+      resolve: "@wkocjan/gatsby-theme-intro",
+      options: {
+        theme: "gh-inspired",
+      },
+    },
+  ],
 };
