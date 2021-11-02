@@ -1,26 +1,25 @@
 - profile:
-  initials: JD
-  name: John Doe
-  profession: Web Developer
+  initials: RS
+  name: Steven Roh
+  profession: Software Developer
   image: images/profile.jpg
-  location: New York, USA
+  location: Sion, Valais
   relocation: true
-  company: Atomic Studio
+  company: State of Valais
   for_hire: true
-  focus: Learning Gatsby
-  focus_url: https://gatsbyjs.org
+  focus: Multi-purpose Nest.js mobile app backend
+  focus_url: ''
   about: |
     Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
 
     User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
   skills:
     - JavaScript
-    - HTML / CSS
-    - Ruby on Rails
+    - Python
+    - DevOps
   tools:
     - React
     - VSCode
-    - Gatsby
   budget:
     currency: $
     min: 5

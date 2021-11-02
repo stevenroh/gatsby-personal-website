@@ -4,6 +4,7 @@ module.exports = {
     locale: "en",
     title: "Steven Roh",
     formspreeEndpoint: "https://formspree.io/f/xoqyodav",
+    showThemeLogo: false,
   },
   plugins: [
     {
