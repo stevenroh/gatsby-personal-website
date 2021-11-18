@@ -4,7 +4,7 @@
   profession: Software Developer
   image: images/profile.jpg
   location: Sion, Valais
-  relocation: true
+  relocation: false
   company: State of Valais
   for_hire: true
   focus: Multi-purpose Nest.js mobile app backend
