@@ -1,5 +1,5 @@
 import React from "react"
-import { ProfileType } from "@wkocjan/gatsby-theme-intro/src/types"
+import { ProfileType } from "@rohs/gatsby-theme-intro/src/types"
 
 const Header = ({ initials }) => (
   <header className="flex justify-between p-4 lg:px-8">

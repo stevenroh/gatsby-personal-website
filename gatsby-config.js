@@ -8,7 +8,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "@wkocjan/gatsby-theme-intro",
+      resolve: "@rohs/gatsby-theme-intro",
       options: {
         theme: "gh-inspired",
       },

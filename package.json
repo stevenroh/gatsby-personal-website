@@ -1,5 +1,5 @@
 {
-  "name": "steven-roh",
+  "name": "stevenroh",
   "version": "1.0.0",
   "private": true,
   "description": "Steven Roh",
@@ -15,7 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@wkocjan/gatsby-theme-intro": "^2.0.1",
+    "@rohs/gatsby-theme-intro": "^2.0.2",
     "gatsby": "^4.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
