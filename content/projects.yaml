@@ -4,4 +4,43 @@
   tags:
     - JavaScript
     - Nest.js
+  image: 'images/nest.png'
+- name: "Un environnement pour l’enseignement de la cybersécurité"
+  description: Bachelor thesis at HES-SO Valais
+  status: live
+  tags:
+    - DevOps
+    - Ansible
+    - Docker
+    - Terraform
+    - Vagrant
+    - Azure
+- name: Tournament manager
+  description: Android app to manage sport tournaments
+  status: live
+  tags:
+    - Android
+    - Java
+    - Firebase
   icon: github
+  url: https://github.com/pmettraux/tournament-manager/
+- name: Teacher App
+  description: Android app to manage school classes, schedule and attendance
+  status: live
+  tags:
+    - Android
+    - Java
+    - Firebase
+- name: HES-SO VS Events
+  description: A web app to store, view and receive notification of school events, made during a Hackaton
+  status: live
+  tags:
+    - WordPress
+    - JavaScript
+- name: Virtual Graffiti
+  description: Java app using Kinect and a Beamer to draw on a wall
+  status: live
+  tags:
+    - Java
+    - Processing
+    - Kinect

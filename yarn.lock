@@ -1669,10 +1669,10 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@rohs/gatsby-theme-intro@^2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@rohs/gatsby-theme-intro/-/gatsby-theme-intro-2.0.2.tgz#37b970c96199d2846bdda2a12f387962553972bf"
-  integrity sha512-JqIg7PjTb85rldNt15dDZjeYsl70k13w5CrOPF9LQYaviUFlgPYuRh6K7sWh5QUE0pZKV7ubI/vEsCXBJRKZZg==
+"@rohs/gatsby-theme-intro@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@rohs/gatsby-theme-intro/-/gatsby-theme-intro-2.0.3.tgz#6e4543b8659bd1f761a4f1b567d3b9f2f72ed251"
+  integrity sha512-2vOFubx74beGpKUuRIVlE1l736bYhAWF2E2km6RAsEqsu7lvgPBrxwv/3Ps7i0e2vUPtcF1JqDuEF79nb7vB9g==
   dependencies:
     autoprefixer "^10.2.5"
     color "^4.0.1"

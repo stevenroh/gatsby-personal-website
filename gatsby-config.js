@@ -3,7 +3,7 @@ module.exports = {
     description: "Personal page",
     locale: "en",
     title: "Steven Roh",
-    formspreeEndpoint: "https://formspree.io/f/xoqyodav",
+    formspreeEndpoint: "",
     showThemeLogo: false,
   },
   plugins: [
