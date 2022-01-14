@@ -5,8 +5,8 @@
   image: images/profile.jpg
   location: Sion, Valais
   relocation: false
-  company: State of Valais
-  for_hire: true
+  company: Filaos Consulting
+  for_hire: false
   focus: Multi-purpose Nest.js mobile app backend
   focus_url: ''
   about: |
