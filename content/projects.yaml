@@ -22,8 +22,6 @@
     - Android
     - Java
     - Firebase
-  icon: github
-  url: https://github.com/pmettraux/tournament-manager/
 - name: Teacher App
   description: Android app to manage school classes, schedule and attendance
   status: live
