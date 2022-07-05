@@ -1,25 +1,29 @@
 - profile:
   initials: RS
   name: Steven Roh
-  profession: Software Developer
+  profession: Data Analyst // <br/> Software Developer
   image: images/profile.jpg
-  location: Sion, Valais
+  location: Valais
   relocation: false
-  company: Filaos Consulting
+  company: Filaos SA
   for_hire: false
-  focus: Multi-purpose Nest.js mobile app backend
+  focus: Building JavaScript apps and Python scripts and tools
   focus_url: ''
   about: |
 
   skills:
-    - JavaScript
-    - Python
+    - Web applications development
+    - Data exploration and transformation
     - DevOps
   tools:
+    - KNIME Plaform
     - React
-    - VSCode
+    - JavaScript
+    - Docker
+    - Python
+    - VS Code
   budget:
     currency: $
-    min: 5
-    max: 30
-    default: 10
+    min: 0
+    max: 0
+    default: 0
