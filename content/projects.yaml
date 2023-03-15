@@ -1,10 +1,8 @@
-- name: React Native App with Nest.js backend
-  description: Multi-purpose app and mobile backend
-  status: in progress
+- name: React Native App with backend
+  description: Multi-purpose app with backend
+  status: live
   tags:
     - React Native
-    - Nest.js
-  image: 'images/nest.png'
 - name: "Un environnement pour l’enseignement de la cybersécurité"
   description: Bachelor thesis at HES-SO Valais
   status: live
